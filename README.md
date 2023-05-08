@@ -8,7 +8,7 @@ Node version used during development is `v18.10.0`.
 Npm version used during development is `9.6.5`.
 
 Run `npm install` to install the dependencies.
-Please restore database provided at root `db.txt`
+Please restore database provided at root -> gart-bookstore-db-dump (A mongodump backup)
 ```
 
 ## Running the app
